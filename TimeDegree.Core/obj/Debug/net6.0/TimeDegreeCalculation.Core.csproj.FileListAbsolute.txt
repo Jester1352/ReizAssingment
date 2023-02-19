@@ -1,0 +1,12 @@
+C:\Users\dzakh\Downloads\ZakharenkovOOP\src\FigureCalculator.Core\bin\Debug\net6.0\TimeDegreeCalculation.Core.deps.json
+C:\Users\dzakh\Downloads\ZakharenkovOOP\src\FigureCalculator.Core\bin\Debug\net6.0\TimeDegreeCalculation.Core.dll
+C:\Users\dzakh\Downloads\ZakharenkovOOP\src\FigureCalculator.Core\bin\Debug\net6.0\TimeDegreeCalculation.Core.pdb
+C:\Users\dzakh\Downloads\ZakharenkovOOP\src\FigureCalculator.Core\obj\Debug\net6.0\TimeDegreeCalculation.Core.csproj.AssemblyReference.cache
+C:\Users\dzakh\Downloads\ZakharenkovOOP\src\FigureCalculator.Core\obj\Debug\net6.0\TimeDegreeCalculation.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dzakh\Downloads\ZakharenkovOOP\src\FigureCalculator.Core\obj\Debug\net6.0\TimeDegreeCalculation.Core.AssemblyInfoInputs.cache
+C:\Users\dzakh\Downloads\ZakharenkovOOP\src\FigureCalculator.Core\obj\Debug\net6.0\TimeDegreeCalculation.Core.AssemblyInfo.cs
+C:\Users\dzakh\Downloads\ZakharenkovOOP\src\FigureCalculator.Core\obj\Debug\net6.0\TimeDegreeCalculation.Core.csproj.CoreCompileInputs.cache
+C:\Users\dzakh\Downloads\ZakharenkovOOP\src\FigureCalculator.Core\obj\Debug\net6.0\TimeDegreeCalculation.Core.dll
+C:\Users\dzakh\Downloads\ZakharenkovOOP\src\FigureCalculator.Core\obj\Debug\net6.0\refint\TimeDegreeCalculation.Core.dll
+C:\Users\dzakh\Downloads\ZakharenkovOOP\src\FigureCalculator.Core\obj\Debug\net6.0\TimeDegreeCalculation.Core.pdb
+C:\Users\dzakh\Downloads\ZakharenkovOOP\src\FigureCalculator.Core\obj\Debug\net6.0\ref\TimeDegreeCalculation.Core.dll
